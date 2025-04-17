@@ -5,28 +5,15 @@
 - Sou formado em Ciências Contábeis e tenho 4 anos de experiência fazendo uma ponte entre a contabilidade e a programação.
 - Tenho a tecnologia como área de interesse profissional e hobbie.
 - Meus pronomes são: Ele/Dele
-
 ---
-
 ## 💼 Projetos profissionais (trabalho atual)
 
 Na empresa onde trabalho atualmente, construi individualmente os projetos que facilitaram a vida do escritório:
 
 - **[backup_saftonline]** — script de salvamento de histórico de dados do saftonline + criação e atualização de banco de dados.
-  - Tecnologias: Python, PostgreSQL, webscraping, selenium.
-  - Meu papel: Criação, testes, utilização, manutenção, adicionar ao servidor.
-
 - **[safts_nao_faturacao]** — script de submissão e checagem de safts no efatura.
-  - Tecnologias: Python, webscraping, selenium.
-  - Meu papel: Criação, testes, utilização, manutenção, adicionar ao servidor.
-
 - **[password_AT_checker]** — script de checagem de estado das senhas na AT.
-  - Tecnologias: Python, webscraping, selenium.
-  - Meu papel: Criação, testes, utilização, manutenção, adicionar ao servidor.
-
 - **[certidao_registo]** — script de checagem de estado  e anos de prestação de contas do registo comercial.
-  - Tecnologias: Python, webscraping, selenium.
-  - Meu papel: Criação, testes, utilização, manutenção, adicionar ao servidor.
 ---
 
 <!--
