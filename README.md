@@ -20,6 +20,19 @@ I independently developed the following projects to automize and facilitate the 
 
 ---
 
+## 🧠 Study Projects
+
+Developed at 42 programming school:
+
+- ***[Piscine](https://github.com/brenoportella/my_piscine_42)*** — solve logic problens, C sintax and basic functions.
+- ***[Common Core](https://github.com/brenoportella/42commoncore)*** — A collection of useful and reusable code. Check it out!
+
+Others Studies:
+
+- ***[DSA_Study](https://github.com/brenoportella/DSA_Study)*** — Data Structures and Algorithms.
+
+---
+
 
 <!--
 ## 🧠 Projetos estudos (Escola 42)
