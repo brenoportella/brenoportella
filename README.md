@@ -1,20 +1,24 @@
-# 👋 Sobre mim
+# 👋 About Me
 
-- Oi, sou Breno.
-- Sou interessado em técnologia e por isso trabalho com ela, além de ter-la como hobbie.
-- Sou formado em Ciências Contábeis e tenho 4 anos de experiência fazendo uma ponte entre a contabilidade e a programação.
-- Tenho a tecnologia como área de interesse profissional e hobbie.
-- Meus pronomes são: Ele/Dele
+- Hi, I'm Breno.
+- I'm passionate about technology, which is why I work with it—and also enjoy it as a hobby.
+- I have a degree in Accounting and 4 years of experience building bridges between accounting and programming.
+- Technology is both my professional field and personal interest.
+- My pronouns are: He/Him
+
 ---
-## 💼 Projetos profissionais (trabalho atual)
 
-Na empresa onde trabalho atualmente, construi individualmente os projetos que facilitaram a vida do escritório:
+## 💼 Professional Projects (Current Job)
 
-- **[backup_saftonline]** — script de salvamento de histórico de dados do saftonline + criação e atualização de banco de dados.
-- **[safts_nao_faturacao]** — script de submissão e checagem de safts no efatura.
-- **[password_AT_checker]** — script de checagem de estado das senhas na AT.
-- **[certidao_registo]** — script de checagem de estado  e anos de prestação de contas do registo comercial.
+At my current company, I independently developed several projects that made day-to-day work at the office easier:
+
+- **[backup_saftonline](https://github.com/brenoportella/backup_saftonline)** — script to save historical data from saftonline + create and update a database.
+- **[safts_nao_faturacao](https://github.com/brenoportella/safts_nao_faturacao)** — script to submit and check SAFT files in the Portuguese tax portal (eFatura).
+- **[password_AT_checker](https://github.com/brenoportella/password_AT_checker)** — script to check the status of passwords in the Portuguese Tax Authority system (AT).
+- **[certidao_registo](https://github.com/brenoportella/certidao_registo)** — script to check the status and filing years of commercial registry certificates.
+
 ---
+
 
 <!--
 ## 🧠 Projetos estudos (Escola 42)
