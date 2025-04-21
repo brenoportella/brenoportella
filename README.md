@@ -1,21 +1,22 @@
-# 👋 About Me
+# BRENO PORTELLA
+## 👋 About Me
 
-- Hi, I'm Breno.
-- I'm passionate about technology, which is why I work with it—and also enjoy it as a hobby.
-- I have a degree in Accounting and 4 years of experience building bridges between accounting and programming.
-- Technology is both my professional field and personal interest.
-- My pronouns are: He/Him
+- 🙋‍♂️ Hi, I'm Breno.
+- 💻 I'm passionate about technology, which is why I work with it—and also enjoy it as a hobby.
+- 🎓 I have a degree in Accounting and 4 years of experience building bridges between accounting and programming.
+- ⚙️ Technology is both my professional field and personal interest.
+- 🏷️ My pronouns are: He/Him
 
 ---
 
-## 💼 Professional Projects (Current Job)
+## 💼 Professional Projects
 
-At my current company, I independently developed several projects that made day-to-day work at the office easier:
+I independently developed the following projects to automize and facilitate the day-to-day work:
 
-- **[backup_saftonline](https://github.com/brenoportella/backup_saftonline)** — script to save historical data from saftonline + create and update a database.
-- **[safts_nao_faturacao](https://github.com/brenoportella/safts_nao_faturacao)** — script to submit and check SAFT files in the Portuguese tax portal (eFatura).
-- **[password_AT_checker](https://github.com/brenoportella/password_AT_checker)** — script to check the status of passwords in the Portuguese Tax Authority system (AT).
-- **[certidao_registo](https://github.com/brenoportella/certidao_registo)** — script to check the status and filing years of commercial registry certificates.
+- ***[backup_saftonline](https://github.com/brenoportella/backup_saftonline)*** — script to save historical data from *SAFTOnline* + create and update a database.
+- ***[safts_nao_faturacao](https://github.com/brenoportella/safts_nao_faturacao)*** — script to check and submit *SAFT* files in the Portuguese tax portal (*eFatura*).
+- ***[password_AT_checker](https://github.com/brenoportella/password_AT_checker)*** — script to check the status of passwords in the Portuguese Tax Authority system (AT).
+- ***[certidao_registo](https://github.com/brenoportella/certidao_registo)*** — script to check the status and filing years of commercial registry certificates.
 
 ---
 
