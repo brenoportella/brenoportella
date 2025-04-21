@@ -13,10 +13,10 @@
 
 I independently developed the following projects to automize and facilitate the day-to-day work:
 
-- ***[backup_saftonline](https://github.com/brenoportella/backup_saftonline)*** — script to save historical data from *SAFTOnline* + create and update a database.
-- ***[safts_nao_faturacao](https://github.com/brenoportella/safts_nao_faturacao)*** — script to check and submit *SAFT* files in the Portuguese tax portal (*eFatura*).
-- ***[password_AT_checker](https://github.com/brenoportella/password_AT_checker)*** — script to check the status of passwords in the Portuguese Tax Authority system (AT).
-- ***[certidao_registo](https://github.com/brenoportella/certidao_registo)*** — script to check the status and filing years of commercial registry certificates.
+- ***[backup_saftonline](https://github.com/brenoportella/backup_saftonline)*** — A script to save historical data from *SAFTOnline* + create and update a database.
+- ***[safts_nao_faturacao](https://github.com/brenoportella/safts_nao_faturacao)*** — A script to check and submit *SAFT* files in the Portuguese tax portal (*eFatura*).
+- ***[password_AT_checker](https://github.com/brenoportella/password_AT_checker)*** — A script to check the status of passwords in the Portuguese Tax Authority system (AT).
+- ***[certidao_registo](https://github.com/brenoportella/certidao_registo)*** — A script to check the status and filing years of commercial registry certificates.
 
 ---
 
@@ -24,7 +24,7 @@ I independently developed the following projects to automize and facilitate the 
 
 Developed at 42 programming school:
 
-- ***[Piscine](https://github.com/brenoportella/my_piscine_42)*** — solve logic problens, C sintax and basic functions.
+- ***[Piscine](https://github.com/brenoportella/my_piscine_42)*** — Solve logic problems, practice C syntax, and implement basic functions.
 - ***[Common Core](https://github.com/brenoportella/42commoncore)*** — A collection of useful and reusable code. Check it out!
 
 Others Studies:
