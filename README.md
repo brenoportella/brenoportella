@@ -14,6 +14,7 @@
 I independently developed the following projects to automize and facilitate the day-to-day work:
 
 - ***[backup_saftonline](https://github.com/brenoportella/backup_saftonline)*** — A script to save historical data from *SAFTOnline* + create and update a database.
+- ***[delete_saftonline](https://github.com/brenoportella/delete_saftonline)*** — A script to delete data from *SAFTOnline*.
 - ***[safts_nao_faturacao](https://github.com/brenoportella/safts_nao_faturacao)*** — A script to check and submit *SAFT* files in the Portuguese tax portal (*eFatura*).
 - ***[password_AT_checker](https://github.com/brenoportella/password_AT_checker)*** — A script to check the status of passwords in the Portuguese Tax Authority system (AT).
 - ***[certidao_registo](https://github.com/brenoportella/certidao_registo)*** — A script to check the status and filing years of commercial registry certificates.
