@@ -31,52 +31,26 @@
 
 ---
 
-## 💼 Professional Projects
+## 🚀 My Projects
+### 💼 Professional Projects
+I independently developed the following projects to automize and facilitate the day-to-day work:
 
-<div align="center">
+- ***[backup_saftonline](https://github.com/brenoportella/backup_saftonline)*** — A script to save historical data from *SAFTOnline* + create and update a database.
+- ***[delete_saftonline](https://github.com/brenoportella/delete_saftonline)*** — A script to delete data from *SAFTOnline*.
+- ***[safts_nao_faturacao](https://github.com/brenoportella/safts_nao_faturacao)*** — A script to check and submit *SAFT* files in the Portuguese tax portal (*eFatura*).
+- ***[password_AT_checker](https://github.com/brenoportella/password_AT_checker)*** — A script to check the status of passwords in the Portuguese Tax Authority system (AT).
+- ***[certidao_registo](https://github.com/brenoportella/certidao_registo)*** — A script to check the status and filing years of commercial registry certificates.
 
-<a href="https://github.com/brenoportella/backup_saftonline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=backup_saftonline&theme=holi" />
-</a>
-<a href="https://github.com/brenoportella/safts_nao_faturacao">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=safts_nao_faturacao&theme=holi" />
-</a>
-<a href="https://github.com/brenoportella/certidao_registo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=certidao_registo&theme=holi" />
-</a>
+### 🧠 Study Projects
 
-</div>
+Developed at 42 programming school:
+- ***[Piscine](https://github.com/brenoportella/my_piscine_42)*** — Solve logic problems, practice C syntax, and implement basic functions.
+- ***[Common Core](https://github.com/brenoportella/42commoncore)*** — A collection of useful and reusable code. Check it out!
 
----
-
-## 🧠 Study Projects
-
-### 🏫 42 School Projects
-
-<div align="center">
-
-<a href="https://github.com/brenoportella/my_piscine_42">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=my_piscine_42&theme=holi" />
-</a>
-<a href="https://github.com/brenoportella/42commoncore">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=42commoncore&theme=holi" />
-</a>
-
-</div>
-
-### 📚 Other Studies
-
-<div align="center">
-
-<a href="https://github.com/brenoportella/DSA_Study">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=DSA_Study&theme=holi" />
-</a>
-
-</div>
+### 📚 Others Studies:
+- ***[DSA_Study](https://github.com/brenoportella/DSA_Study)*** — Data Structures and Algorithms.
 
 ---
-
-
 ## 📫 Reach Me
 
 <p align="left">
