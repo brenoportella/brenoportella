@@ -20,24 +20,6 @@
 ---
 ## ⚙️ Development Skills
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=backup_saftonline&theme=holi" width="400"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=delete_saftonline&theme=holi" width="400"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=safts_nao_faturacao&theme=holi" width="400"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=password_AT_checker&theme=holi" width="400"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=certidao_registo&theme=holi" width="400"/></td>
-      <td></td>
-    </tr>
-  </table>
-</div>
-
-<!--
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -46,7 +28,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
--->
+
 ---
 
 ## 💼 Professional Projects
