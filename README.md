@@ -1,74 +1,96 @@
-# BRENO PORTELLA
-## 👋 About Me
+# 👋 BRENO PORTELLA
 
-- 🙋‍♂️ Hi, I'm Breno.
+## 🙋‍♂️ About Me
+
 - 💻 I'm passionate about technology, which is why I work with it—and also enjoy it as a hobby.
-- 🎓 I have a degree in Accounting and 4 years of experience building bridges between accounting and programming.
-- ⚙️ Technology is both my professional field and personal interest.
-- 🏷️ My pronouns are: He/Him
+- 🎓 Degree in Accounting with 4 years bridging accounting and programming.
+- 🧠 Problem-solver with experience automating real-world tax and business workflows.
+- 🏷️ Pronouns: He/Him
+
+---
+
+## 📊 Stats
+
+<p align="center">
+	<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=brenoportella&show_icons=true&theme=holi&rank_icon=github&icon_color=35cdd3&ring_color=205fb3" /></a>
+	&emsp;
+	<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenoportella&layout=compact&theme=holi" /></a>
+</p>
+
+---
+## ⚙️ Development Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
 
 ---
 
 ## 💼 Professional Projects
 
-I independently developed the following projects to automize and facilitate the day-to-day work:
+<div align="center">
 
-- ***[backup_saftonline](https://github.com/brenoportella/backup_saftonline)*** — A script to save historical data from *SAFTOnline* + create and update a database.
-- ***[delete_saftonline](https://github.com/brenoportella/delete_saftonline)*** — A script to delete data from *SAFTOnline*.
-- ***[safts_nao_faturacao](https://github.com/brenoportella/safts_nao_faturacao)*** — A script to check and submit *SAFT* files in the Portuguese tax portal (*eFatura*).
-- ***[password_AT_checker](https://github.com/brenoportella/password_AT_checker)*** — A script to check the status of passwords in the Portuguese Tax Authority system (AT).
-- ***[certidao_registo](https://github.com/brenoportella/certidao_registo)*** — A script to check the status and filing years of commercial registry certificates.
+<a href="https://github.com/brenoportella/backup_saftonline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=backup_saftonline&theme=holi" />
+</a>
+<a href="https://github.com/brenoportella/delete_saftonline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=delete_saftonline&theme=holi" />
+</a>
+<a href="https://github.com/brenoportella/safts_nao_faturacao">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=safts_nao_faturacao&theme=holi" />
+</a>
+<a href="https://github.com/brenoportella/password_AT_checker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=password_AT_checker&theme=holi" />
+</a>
+<a href="https://github.com/brenoportella/certidao_registo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=certidao_registo&theme=holi" />
+</a>
+
+</div>
 
 ---
 
 ## 🧠 Study Projects
 
-Developed at 42 programming school:
+### 🏫 42 School Projects
 
-- ***[Piscine](https://github.com/brenoportella/my_piscine_42)*** — Solve logic problems, practice C syntax, and implement basic functions.
-- ***[Common Core](https://github.com/brenoportella/42commoncore)*** — A collection of useful and reusable code. Check it out!
+<div align="center">
 
-Others Studies:
+<a href="https://github.com/brenoportella/my_piscine_42">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=my_piscine_42&theme=holi" />
+</a>
+<a href="https://github.com/brenoportella/42commoncore">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=42commoncore&theme=holi" />
+</a>
 
-- ***[DSA_Study](https://github.com/brenoportella/DSA_Study)*** — Data Structures and Algorithms.
+</div>
 
----
+### 📚 Other Studies
 
+<div align="center">
 
-<!--
-## 🧠 Projetos estudos (Escola 42)
+<a href="https://github.com/brenoportella/DSA_Study">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=DSA_Study&theme=holi" />
+</a>
 
-Durante minha jornada na 42, desenvolvi diversos projetos práticos e desafiadores, incluindo:
-
-- **Libft** — Recriação de funções da libc em C
-- **Get_next_line** — Leitura linha por linha de arquivos usando buffers
-- **Printf** — Implementação própria da função `printf` em C
-- **Minishell** — Um shell minimalista com parsing, execução e redirecionamentos
-- **Push_swap** — Algoritmo de ordenação com operações limitadas, foco em performance
-
-Esses projetos foram feitos sem frameworks, focando em lógica pura, estrutura de dados e uso avançado de C.
+</div>
 
 ---
 
-## 🚀 Tecnologias e habilidades
 
-- Linguagens: C, JavaScript, TypeScript, Python
-- Frameworks: React, Node.js, Express
-- Ferramentas: Git, Docker, Postgres, Linux
-- Habilidades: Algoritmos, estrutura de dados, programação de baixo nível, versionamento, trabalho em equipe
--->
+## 📫 Reach Me
 
-<!--
-**brenoportella/brenoportella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="mailto:bp.bohry@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  &emsp;
+  <a href="https://www.linkedin.com/in/brenoportella/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</p>
