@@ -38,14 +38,8 @@
 <a href="https://github.com/brenoportella/backup_saftonline">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=backup_saftonline&theme=holi" />
 </a>
-<a href="https://github.com/brenoportella/delete_saftonline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=delete_saftonline&theme=holi" />
-</a>
 <a href="https://github.com/brenoportella/safts_nao_faturacao">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=safts_nao_faturacao&theme=holi" />
-</a>
-<a href="https://github.com/brenoportella/password_AT_checker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=password_AT_checker&theme=holi" />
 </a>
 <a href="https://github.com/brenoportella/certidao_registo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=brenoportella&repo=certidao_registo&theme=holi" />
